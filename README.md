@@ -8,4 +8,4 @@
 - [Identity Lifecycle](https://github.com/katrena-richard/identity-lifecycle)
 - [Audit Logs](https://github.com/katrena-richard/audit-logs)
 - [Sign-In Logs](https://github.com/katrena-richard/sign-in-logs)
-- [Authentication]() 
+- [Authentication](https://github.com/katrena-richard/authentication) 
