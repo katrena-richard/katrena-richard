@@ -7,5 +7,5 @@
 - [Group Assignments](https://github.com/katrena-richard/group-assign)
 - [Identity Lifecycle](https://github.com/katrena-richard/identity-lifecycle)
 - [Audit Logs](https://github.com/katrena-richard/audit-logs)
-- [Sign-In Logs]()
+- [Sign-In Logs](https://github.com/katrena-richard/sign-in-logs)
 - [Authentication]() 
