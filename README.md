@@ -6,6 +6,6 @@
 - [Role Assignments](https://github.com/katrena-richard/role-assignments-repository)
 - [Group Assignments](https://github.com/katrena-richard/group-assign)
 - [Identity Lifecycle](https://github.com/katrena-richard/identity-lifecycle)
-- [Audit Logs]()
+- [Audit Logs](https://github.com/katrena-richard/audit-logs)
 - [Sign-In Logs]()
 - [Authentication]() 
