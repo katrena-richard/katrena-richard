@@ -9,3 +9,17 @@
 - [Audit Logs](https://github.com/katrena-richard/audit-logs)
 - [Sign-In Logs](https://github.com/katrena-richard/sign-in-logs)
 - [Authentication](https://github.com/katrena-richard/authentication) 
+
+<b>Okta Administration</b>
+- [Import Users from Entra ID to Okta Environment]()
+- [Enrollment Provisioning in Okta]()
+- [Creating Users in Okta Manually]()
+- [Add Attributes to User Profiles]()
+- [Creating Groups in Okta Environment]()
+- [Attribute-Based Access Control (ABAC) Rule]()
+- [Device Management in Okta</b>]()
+- [Audit Logs in Okta]()
+- [PowerShell]()
+
+
+
