@@ -17,7 +17,7 @@
 - [Add Attributes to User Profiles](https://github.com/katrena-richard/adding-attributes-to-users-in-our-okta/blob/main/README.md)
 - [Creating Groups in Okta Environment](https://github.com/katrena-richard/Creating-Groups-in-Okta/blob/main/README.md)
 - [Attribute-Based Access Control (ABAC) Rule](https://github.com/katrena-richard/Attribute-Based-Access-Control/blob/main/README.md)
-- [Device Management in Okta</b>]()
+- [Device Management in Okta</b>](https://github.com/katrena-richard/Device-Management-in-Okta)
 - [Audit Logs in Okta]()
 - [PowerShell]()
 
