@@ -19,7 +19,7 @@
 - [Attribute-Based Access Control (ABAC) Rule](https://github.com/katrena-richard/Attribute-Based-Access-Control/blob/main/README.md)
 - [Device Management in Okta</b>](https://github.com/katrena-richard/Device-Management-in-Okta)
 - [Audit Logs in Okta](https://github.com/katrena-richard/Audit-Logs-in-Okta/blob/main/README.md)
-- [PowerShell]()
+- [PowerShell](https://github.com/katrena-richard/PowerShell-Overview-/blob/main/README.md)
 
 
 
