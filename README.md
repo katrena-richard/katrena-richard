@@ -11,7 +11,7 @@
 - [Authentication](https://github.com/katrena-richard/authentication) 
 
 <b>Okta Administration</b>
-- [Import Users from Entra ID to Okta Environment]()
+- [Import Users from Entra ID to Okta Environment](https://github.com/katrena-richard/import-users-from-enta-to-okta)
 - [Enrollment Provisioning in Okta]()
 - [Creating Users in Okta Manually]()
 - [Add Attributes to User Profiles]()
